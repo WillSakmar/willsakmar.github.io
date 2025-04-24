@@ -1,38 +1,31 @@
 module.exports = {
-  siteTitle: 'Yashita Namdeo',
+  siteTitle: 'William Sakmar',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'William Sakmar is an aspiring investment analyst based in New York, NY and Stockholm, Sweden.',
   siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+    'William Sakmar, William, Sakmar, williamsakmar, Investment, Finance, Analyst, hedge fund analyst, credit analyst, python, java, stockholm, new york',
+  siteUrl: 'https://willsakmar.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
-  location: 'Indore, India',
-  email: 'yashita.namdeo2000@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
+  googleAnalyticsID: '',
+  googleVerification: '',
+  name: 'William Sakmar',
+  location: 'New York, NY',
+  email: 'willsakmar@gmail.com',
+  github: 'https://github.com/willsakmar',
   twitterHandle: '@',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/yashitanamdeo',
+      url: 'https://github.com/willsakmar',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
+      url: 'https://www.linkedin.com/in/williamsakmaraberg',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
-    },
+
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/',
+      url: 'https://www.instagram.com/willsakmar',
     },
   ],
 

@@ -2,21 +2,19 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Coding
-  - Reading
-  - Painting
-  - Crafting
+  - Market & Policy Research
+  - Financial Analysis
+  - Python & SQL
+  - VBA
+  - Salesforce
   - Problem Solving
   - Team Management
-  - Mentoring
 ---
 
-Hello! I'm Yashita Namdeo, from Indore, also known as Mini Mumbai and the Cleanest City of India.
+Hello! I'm William Sakmar — a U.S.-Swedish dual citizen with roots in New York City, shaped by a globally mobile upbringing and a deep curiosity about financial markets and political economy.
 
-I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.
+I’m currently completing my bachelor’s degree in Business Administration and Political Science at [Stockholm University](https://www.su.se/stockholm-business-school/), with a concentration in Finance. Along the way, I’ve embraced every challenge — from adapting to new cultures in Stockholm and Montpellier, to juggling high-pressure roles at [Muzinich & Co.](https://www.muzinich.com), the [American Chamber of Commerce](https://www.amcham.se), and one of Sweden’s largest student-run career fairs, all while studying full-time.
 
-I am pursuing my Bachelors from [SVVV, Indore](https://www.svvv.edu.in/) in Computer Science and Engineering (2018-2022) my current GPA is [3.7]() out of 4.
+This experience has strengthened my resilience, time management, and what I like to call “social elasticity” — the ability to navigate unfamiliar environments with adaptability and grace. It also affirmed my passion for credit markets and my ambition to pursue a career in high-yield corporate credit investment management in New York.
 
-I am a member of [Developer Student Club - SVVV](https://dsc.community.dev/shri-vaishnav-vidyapeeth-vishwavidyalaya/) and have also been awarded 75% Merit Scholarship(Top 10%) by my college.
-
-Here are a few of the other activities that I love to do!
+Beyond finance, I’m a lifelong learner, a CFA Level 1 candidate, and an aspiring reader of Robert Caro’s The Power Broker (yes, still working on it!). I enjoy golf, swimming, good food, and the occasional deep-dive into political history.
