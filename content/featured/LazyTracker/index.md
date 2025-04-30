@@ -2,8 +2,8 @@
 date: '1'
 title: 'Lazy Portfolio Tracker'
 cover: './lazy_tracker.png'
-github: 'https://github.com/yashitanamdeo/Covid19-tracker'
-external: 'https://covid19-tracker-84ef4.web.app/'
+github: 'https://github.com/willsakmar/lazy-tracker'
+external: 'https://lazy-tracker.streamlit.app'
 tech:
   - Python
   - Pandas

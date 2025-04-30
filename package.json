@@ -1,6 +1,6 @@
 {
   "name": "v1",
-  "description": "Personal Website V1",
+  "description": "My Website",
   "version": "1.0.0",
   "author": "William Sakmar <willsakmar@gmail.com>",
   "repository": {
@@ -11,6 +11,7 @@
     "gatsby"
   ],
   "license": "MIT",
+  "homepage": "https://willsakmar.github.io",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
