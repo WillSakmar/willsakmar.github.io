@@ -275,7 +275,27 @@ const Featured = ({ data }) => {
                   href={external ? external : github ? github : '#'}
                   target="_blank"
                   rel="nofollow noopener noreferrer">
-                  <StyledFeaturedImg fluid={cover.childImageSharp.fluid} alt={title} />
+                  {cover && cover.publicURL ? (
+                    <img
+                      src={cover.publicURL}
+                      alt={title}
+                      style={{
+                        width: '100%',
+                        height: '100%',
+                        objectFit: 'cover',
+                        borderRadius: `${theme.radius + 1}px`,
+                      }}
+                    />
+                  ) : (
+                    <div
+                      style={{
+                        width: '100%',
+                        height: '100%',
+                        background: colors.navy,
+                        borderRadius: `${theme.radius + 1}px`,
+                      }}
+                    />
+                  )}
                 </StyledImgContainer>
               </StyledProject>
             );

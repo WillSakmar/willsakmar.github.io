@@ -12,12 +12,12 @@ const StyledMainContainer = styled(Main)`
 const IndexPage = ({ location, data }) => (
   <Layout location={location}>
     <StyledMainContainer className="fillHeight">
-      <Hero data={data.hero.edges} />
-      <About data={data.about.edges} />
-      <Jobs data={data.jobs.edges} />
-      <Featured data={data.featured.edges} />
-      <Projects data={data.projects.edges} />
-      <Contact data={data.contact.edges} />
+      {data.hero && data.hero.edges && <Hero data={data.hero.edges} />}
+      {data.about && data.about.edges && <About data={data.about.edges} />}
+      {data.jobs && data.jobs.edges && <Jobs data={data.jobs.edges} />}
+      {data.featured && data.featured.edges && <Featured data={data.featured.edges} />}
+      {data.projects && data.projects.edges && <Projects data={data.projects.edges} />}
+      {data.contact && data.contact.edges && <Contact data={data.contact.edges} />}
     </StyledMainContainer>
   </Layout>
 );
@@ -88,11 +88,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             cover {
-              childImageSharp {
-                fluid(maxWidth: 700, quality: 90, traceSVG: { color: "#64ffda" }) {
-                  ...GatsbyImageSharpFluid_withWebp_tracedSVG
-                }
-              }
+              publicURL
             }
             tech
             github
