@@ -36,7 +36,7 @@ jobs:
             ${{ runner.os }}-gatsby-
 
       - name: Install dependencies
-        run: npm install
+        run: npm install --legacy-peer-deps
 
       - name: Build Gatsby site
         run: npm run build
