@@ -6,7 +6,6 @@ module.exports = {
     'William Sakmar, William, Sakmar, williamsakmar, Investment, Finance, Analyst, hedge fund analyst, credit analyst, python, java, stockholm, new york',
   siteUrl: 'https://willsakmar.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: '',
   googleVerification: '',
   name: 'William Sakmar',
   location: 'New York, NY',
