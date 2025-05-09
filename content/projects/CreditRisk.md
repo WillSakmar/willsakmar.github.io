@@ -12,4 +12,4 @@ company: ''
 showInProjects: true
 ---
 
-A model that simulates a loan pool under uncertainty — generates multiple paths of defaults, recoveries, and losses.
+A model that simulates a loan pool under uncertainty — generates multiple paths of defaults, recoveries, and losses. (In Progress)

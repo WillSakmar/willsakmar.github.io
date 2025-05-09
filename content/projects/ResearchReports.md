@@ -10,4 +10,4 @@ company: ''
 showInProjects: true
 ---
 
-An opportunity for me to apply my knowledge from coursework, reading, and CFA studies to real-world investment analysis, credit research, and strategic decision-making.
+An opportunity for me to apply my knowledge from coursework, reading, and CFA studies to real-world investment analysis, credit research, and strategic decision-making. (In Progress)

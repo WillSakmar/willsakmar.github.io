@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-A visual representation of how cash flows are distributed to different tranches (senior, mezzanine, equity) in a securitization deal.
+A visual representation of how cash flows are distributed to different tranches (senior, mezzanine, equity) in a securitization deal. (In Progress)

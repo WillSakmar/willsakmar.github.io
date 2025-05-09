@@ -12,4 +12,4 @@ company: ''
 showInProjects: true
 ---
 
-Build a yield curve for credit-risky instruments — e.g., average spreads by credit rating and term.
+Build a yield curve for credit-risky instruments — e.g., average spreads by credit rating and term. (In Progress)
