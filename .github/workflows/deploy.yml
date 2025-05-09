@@ -3,7 +3,7 @@ name: Deploy Gatsby site to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - develop
 
 permissions:
   contents: write
@@ -16,6 +16,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
+          ref: develop
           fetch-depth: 0
 
       - name: Set up Node.js
