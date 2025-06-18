@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://willsakmar.github.io/sitemap-index.xml
+Host: https://willsakmar.github.io
